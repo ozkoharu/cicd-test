@@ -15,4 +15,4 @@ jobs:
       # シェルコマンド実行
       - run: echo "Hello, world!"
       # アクションの呼び出し
-      - uses: actions/checkout@4
+      - uses: actions/checkout@v4
