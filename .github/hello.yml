@@ -2,7 +2,7 @@
 name: Hello 
 
 # イベント(push時に起動)
-on:push
+on: push
 
 # jobの定義
 jobs:
